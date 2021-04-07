@@ -7,7 +7,7 @@ namespace HomeWork_3._1
     {
         static void Main(string[] args)
         {
-            string score = "";
+            string score = ""; 
             while (score != "exit")
             {
                 var options = new ConfigurationOptions();
